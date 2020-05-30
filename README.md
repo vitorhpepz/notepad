@@ -1,5 +1,8 @@
 Beautiful and simple notepad PHP web app<br><br>
 
+I built it to be able to access and edit my notes on both my cellphone and computer. It is my GTD system and also my journal. I used Wunderlist and many others before, but all of them had problems, mainly randomly loosing notes, unpredictable sync or heavy to open.<br><br>
+
+Very fast<br>
 Dark background, console-like appearance<br>
 Responsive<br>
 100% write area, no menu, except for the small notification on the right bottom corner for when offline of if the content wasn't saved yet<br>
